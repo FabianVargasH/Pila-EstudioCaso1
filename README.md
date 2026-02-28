@@ -1,4 +1,5 @@
-# Pila en el Análisis de Expresiones Aritméticas
+# Pila en el Análisis de Expresiones Aritméticas <img width="91" height="70" alt="Logo Cenfotec Actual (1)" src="https://github.com/user-attachments/assets/f74fb401-7ca9-4d3e-8e0c-d44ede4efcaf" />
+
 **Curso:** Estructura de Datos — Universidad Cenfotec  
 **Estudiante:** Fabián Vargas Hidalgo
 
